@@ -1,0 +1,9 @@
+{
+    "videos":[
+        {"id":1,"title":"useSWR ile veri yakalama ve alma","author":"Kamil"},
+        {"id":2,"title":"React kullanımı","author":"Ahmet"},
+        {"id":3,"title":"Fetcher ","author":"Mehmet"},
+        {"id":4,"title":"Cache de veriyi depolar","author":"Cengiz"},
+        {"id":5,"title":"Birden fazla component kullanımında cachdeki veriyi verir.","author":"Ali"}
+    ]
+}

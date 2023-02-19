@@ -1,0 +1,9 @@
+cachde veriyi depolar.Güncel veriyi alırken kullanıcı boş  ekran görmek yerine önceki veriyi görmeye devam eder.Fetch ve Axios da anlık beyaz ekran olur.
+birden fazla component aynı veriyi kullanmak istediğinde cachdeki veriyi verir.
+//Not:http://localhost:4001/careers ile ilgili hata alırsan terminalde tekrar oluştur json server.
+localde verimizi saklamak için Fake Backend oluşturuyorum.
+//1- npm install -g json-server
+//2- json-server -p 4000 -w ./data/db.json
+Uygulamayı kapayınca server ilişkisi kesilir tekrar 2.adımı uygula
+npm install swr
+npm install axios yükle axios karşılaştırması yapmak için
